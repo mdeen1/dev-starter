@@ -12,7 +12,8 @@
     "proxy": "gulp watch-proxy",
     "static:dev": "gulp static-dev",
     "static:build": "gulp static-build",
-    "imgs": "gulp imagemin"
+    "imgs": "gulp imagemin",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
